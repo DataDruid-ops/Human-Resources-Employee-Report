@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This Data analysis project aims to provide insights into employees age, race, gender, job title, location and the length of employment from 2000 to 2019. By analyzing various aspects, we seek to uncover actionable insights, identify trends, gain a deeper understanding of the employee perfomance and make data-driven recomendations.
+This Data analysis project aims to provide insights into employees age, race, gender, job title, location and the length of employment from 2000 to 2019. By analyzing various aspects, we seek to uncover actionable insights, identify trends, gain a deeper understanding of the employee performance and make data-driven recommendations.
 
 ## Data Sources
 
